@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "761911361212",
+    "project_id": "phonepay-bbc74",
+    "storage_bucket": "phonepay-bbc74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761911361212:android:0bec83647182de86f01ab9",
+        "android_client_info": {
+          "package_name": "com.example.phonepay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb44R05sA3_TbjgAERkIPp11TsbYCUgk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

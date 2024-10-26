@@ -1,0 +1,29 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "phonepay-bbc74",
+          "appId": "1:761911361212:android:0bec83647182de86f01ab9",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "phonepay-bbc74",
+          "configurations": {
+            "android": "1:761911361212:android:0bec83647182de86f01ab9",
+            "ios": "1:761911361212:ios:7f6a80b3148912dbf01ab9",
+            "macos": "1:761911361212:ios:7f6a80b3148912dbf01ab9",
+            "web": "1:761911361212:web:dafd462316340a0af01ab9",
+            "windows": "1:761911361212:web:b4e8187832b17708f01ab9"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  }
+}
